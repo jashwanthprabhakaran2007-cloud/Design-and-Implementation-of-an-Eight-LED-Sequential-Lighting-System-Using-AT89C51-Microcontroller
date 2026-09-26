@@ -236,7 +236,11 @@ LED8 ← LED7 ← LED6 ← LED5
 
 The sequence repeats continuously.
 
+
+
 ---
+##OUTPUT
+<img width="1337" height="989" alt="image" src="https://github.com/user-attachments/assets/aa95d6e3-68dc-45ad-9134-f568c0de4b83" />
 
 ##  Applications
 
